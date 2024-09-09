@@ -24,7 +24,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ssharmak/Portfolio.git
+   git clone https://github.com/cthejasvi/Portfolio-main.git
    ```
 
 2. Navigate to the project directory:
